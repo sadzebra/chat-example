@@ -1,0 +1,19 @@
+{
+  "name": "chat example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "easymongo": "^5.0.0",
+    "express": "4.13.4",
+    "socketio": "^1.0.0"
+  },
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^1.12.1"
+  }
+}
